@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_percentge"
+
+            android:title="Percentage " />
+        <item
+            android:id="@+id/nav_distance"
+
+            android:title="Distance " />
+        <item
+            android:id="@+id/nav_mapDistance"
+
+            android:title="Map Distance " />
+        <item
+            android:id="@+id/nav_gradient"
+
+            android:title="Gradient " />
+        <item
+            android:id="@+id/nav_temperature"
+
+            android:title="Temperature " />
+        <item
+            android:id="@+id/nav_bmi"
+
+            android:title="BMI " />
+
+    </group>
+
+</menu>
